@@ -33,7 +33,7 @@ Using the linux commands `ifconfig` and `iwconfig` you can put the device into m
 
     Example $ ifconfig wlan0 down
     Example $ iwconfig wlan0 mode monitor
-    Example $ ifconfig <device name> up
+    Example $ ifconfig wlan0 up
     
 
 _Method 2_:
