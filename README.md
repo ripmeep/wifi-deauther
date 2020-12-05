@@ -47,4 +47,4 @@ If you have the `aircrack-ng` suite installed, you can put the device into monit
 # Run
 
             $ ./wifi-deauther <DEVICE NAME> <NETWORK BSSID>
-    Example $ ./wifi-deauther wlan0mon 12:34:56:AB:CD:EF        # You can find a networks BSSID/MAC Address using `airodump-ng` or `iw` 
+    Example $ ./wifi-deauther wlan0mon 12:34:56:AB:CD:EF        # You can find a networks BSSID/MAC Address using airodump-ng or the iw suite of tools 
